@@ -1,0 +1,3 @@
+Pycryptodome
+PyPDF2
+streamlit
